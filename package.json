@@ -1,0 +1,35 @@
+{
+  "name": "surmon-china",
+  "version": "0.4.0",
+  "main": "scripts/index.js",
+  "repository": "surmon-china/surmon-china",
+  "author": "surmon-china",
+  "license": "UNLICENSED",
+  "type": "module",
+  "config": {
+    "GITHUB_UID": "surmon-china",
+    "NPM_UID": "surmon"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "output/*",
+      "widgets/*",
+      "icons/*"
+    ]
+  },
+  "scripts": {
+    "dev": "nodemon ./dev/index.js",
+    "generate": "node ./scripts/index.js",
+    "format": "prettier ./scripts --write"
+  },
+  "dependencies": {
+    "axios": "^1.7.x",
+    "devicon": "^2.x",
+    "fs-extra": "^11.x",
+    "prettier": "^3.x",
+    "simple-icons": "^13.x"
+  },
+  "devDependencies": {
+    "nodemon": "^3.x"
+  }
+}
