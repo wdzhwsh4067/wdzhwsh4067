@@ -4,13 +4,7 @@
 <h4 align="center">
   <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://nicedata.eu.org" title="nicedata.eu.org">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">
-      Hello World! I am Wang
-<!--       <img alt="Hello World! I am Wang" src="/widgets/title-light.svg"> -->
-    </picture>
-  </a>
+<a href="https://nicedata.eu.org" title="nicedata.eu.org">Hello World! I am Wang</a>
 </h4>
 
 <h3 align="center">
