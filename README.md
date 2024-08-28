@@ -4,7 +4,18 @@
 <h4 align="center">
   <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
   <span>&nbsp;&nbsp;</span>
-<a href="https://nicedata.eu.org" title="nicedata.eu.org">Hello World! I am Wang</a>
+<a href="https://nicedata.eu.org" title="nicedata.eu.org">
+  <h3 align="center">
+  <a href="#" data-fix-readme-link-style></a>
+  <i>
+    <samp>
+      > Hello World! I am Wang
+    </samp>
+  </i>
+</h3>
+  
+  
+  </a>
 </h4>
 
 <h3 align="center">
