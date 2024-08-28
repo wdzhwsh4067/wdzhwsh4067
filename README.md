@@ -4,10 +4,10 @@
 <h4 align="center">
   <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://surmon.me" title="surmon.me">
+  <a href="https://nicedata.eu.org" title="nicedata.eu.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">
-      <img alt="Hello World! I am Surmon." src="/widgets/title-light.svg">
+      <img alt="Hello World! I am Wang" src="/widgets/title-light.svg">
     </picture>
   </a>
 </h4>
@@ -38,56 +38,56 @@
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-github-stars.svg"
   /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.npmjs.com/~surmon"><img
+<!--   <a href="https://nicedata.eu.org"><img
     alt="total NPM downloads"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-npm-downloads.svg"
-  /></a>
+  /></a> -->
 </h4>
 
 <p align="center">
-  <a href="https://surmon.me"><img
+  <a href="https://nicedata.eu.org"><img
     alt="blog"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-blog.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/surmon"><img
+  <a href="https://nicedata.eu.org"><img
     alt="LinkedIn"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-linkedin.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://leetcode.com/Surmon"><img
+  <a href="https://nicedata.eu.org"><img
     alt="LeetCode"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-leetcode.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon666"><img
+  <a href="https://nicedata.eu.org"><img
     alt="Instagram"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-instagram.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://x.com/surmon7788"><img
+  <a href="https://nicedata.eu.org"><img
     alt="Twitter"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-twitter.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.youtube.com/@surmon_v"><img
+  <a href="https://nicedata.eu.org"><img
     alt="YouTube"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-youtube.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://t.me/surmon"><img
+  <a href="https://nicedata.eu.org"><img
     alt="Telegram"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-telegram.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://redirect.surmon.me/discord-server"><img
+  <a href="https://nicedata.eu.org"><img
     alt="Discord"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-discord.svg"
