@@ -31,7 +31,7 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > My projects are trusted <a href="#"><img src="./widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by thousands of developers all over the world.
+      > My projects definitely will be trusted <a href="#"><img src="./widgets/emoji-two-hearts.webp" alt="💕" title="💕" height="24" width="24" /></a> by people all over the world.
     </samp>
   </i>
 </h3>
