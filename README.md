@@ -7,7 +7,8 @@
   <a href="https://nicedata.eu.org" title="nicedata.eu.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">
-      <img alt="Hello World! I am Wang" src="/widgets/title-light.svg">
+      Hello World! I am Wang
+<!--       <img alt="Hello World! I am Wang" src="/widgets/title-light.svg"> -->
     </picture>
   </a>
 </h4>
