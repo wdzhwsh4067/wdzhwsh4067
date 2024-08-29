@@ -37,6 +37,17 @@
 </h3>
 
 <p align="center"><samp>_</samp></p>
+<h3>🦩NEWS: I released my [Algorithm Toolbox]! 🐞**</h3>
+
+🌟 Throughout my graduate studies in computer science, I've amassed 10+ diverse array of algorithms and tools.
+
+🌞These resources have been integral to both personal experiments and the development of my own website.
+
+
+<img width="1460" alt="image" src="https://github.com/user-attachments/assets/462d1b6c-7f6b-47f2-8515-ac1534232b7d">
+
+<img width="1455" alt="image" src="https://github.com/user-attachments/assets/f8eed2f7-096e-47df-9acc-0e0a209b37ce">
+
 
 <h4 align="center">
   <a href="#"><img
